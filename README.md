@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoveAkpabio
+- 👋 Hi, I’m @LA
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on project
