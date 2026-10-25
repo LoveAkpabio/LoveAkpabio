@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LA
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m a Data Analyst
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me via email- 
 
